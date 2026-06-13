@@ -27,13 +27,13 @@ A central result used throughout the computations is the following lemma due to 
 Let
 
 $$
-(\Gamma_1, \ldots, \Gamma_d)
+(\Gamma_1,\ldots,\Gamma_d)
 $$
 
 be a cycle-free homogeneous $d$-partition of $K_{2d}$, and let $x,y,z$ be three distinct vertices of $K_{2d}$. Then there exists a unique cycle-free homogeneous $d$-partition
 
 $$
-(\Lambda_1, \ldots, \Lambda_d)
+(\Lambda_1,\ldots,\Lambda_d)
 $$
 
 such that the two partitions agree on every edge of $K_{2d}$ except on the face $(x,y,z)$, where they differ on at least two edges.
